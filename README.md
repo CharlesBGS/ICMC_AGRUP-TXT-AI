@@ -1,8 +1,9 @@
+
+<a href="https://https://www.icmc.usp.br/" target="_blank" rel="noopener noreferrer"><img src="https://github.com/CharlesBGS/ICMC_AGRUP-TXT-AI/blob/main/assets/to-README.png?raw=true"></a>
+
+
+
 # Agrupamento de Textos e suas Aplicações em Inteligência Analítica
-
-## ICMC - Instituto De Ciências Matemáticas e de Computação
-
-### Cursos de Extensão – Difusão de Conhecimento – Dezembro de 2021
 
 <p><b>Autor:</b> Ricardo M. Marcacini</p>
 <p><b>Contato:</b> ricardo.marcacini@icmc.usp.br</p>
@@ -18,3 +19,7 @@
   <li>Construção de indicadores a partir de custers</li>
   <li>Agregar informação temporal e geográfica</li>
 </ul>
+
+### ICMC - Instituto De Ciências Matemáticas e de Computação
+
+### Cursos de Extensão – Difusão de Conhecimento – Dezembro de 2021
